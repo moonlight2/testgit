@@ -1,5 +1,5 @@
 <?php
 
-echo "Offlinet test file";
+echo "Offlinet test file new commit";
 
 ?>
